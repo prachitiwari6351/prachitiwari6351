@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<img src='https://i.pinimg.com/originals/87/7a/13/877a13c05bd3699376c4124761062a6d.png' style="height: 400px;"/>
+<img src='https://media.tenor.com/IVCnKbtTeRQAAAAM/programming-computer.gif' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prachitiwari6351&icon=5&color=5)](https://visitcount.itsvg.in)
